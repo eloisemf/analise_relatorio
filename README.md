@@ -1,9 +1,10 @@
-# Analisando rendimento de funcionarios.
-  ---
+# Analisando rendimento dos funcionários.
 
-Este relatório tem o objetivo de demonstrar a importância da análise dos dados de um projeto de desenvolvimento de software ao longo de uma semana.
+Este relatório tem como objetivo demonstrar a importância da análise de dados em um projeto de desenvolvimento de software. A análise é realizada com base no desempenho dos funcionários ao longo de uma semana.
 
-### Dados recebidos para analise
+## Dados Analisados
+
+Os dados analisados neste projeto são apresentados na tabela abaixo:
 
 | Dia     | Horas Trabalhadas | Bugs Corrigidos | Tarefas Concluídas |
 | ------- | ----------------- | --------------- | ------------------ |
@@ -15,7 +16,10 @@ Este relatório tem o objetivo de demonstrar a importância da análise dos dado
 | Sábado  | 5                 | 2               | 3                  |
 | Domingo | 4                 | 1               | 2                  |
 
-### Questões para basear analise:
+## Métricas Analisadas
+
+As seguintes métricas foram calculadas e analisadas neste projeto:
+
 - Total de Horas Trabalhadas
 - Média Diária de Horas Trabalhadas
 - Total de Bugs Corrigidos
@@ -24,4 +28,13 @@ Este relatório tem o objetivo de demonstrar a importância da análise dos dado
 - Média Diária de Tarefas Concluídas
 - Produtividade Diária (Tarefas Concluídas por Hora)
 
-  
+## Visualizando e Editando os Dados
+
+Para visualizar e editar os dados, siga as instruções abaixo:
+
+1. Baixe o arquivo `ResiliaCorp.ipynb`.
+2. Abra o [Google Colab](https://colab.research.google.com/).
+3. Vá para `Arquivo > Fazer upload de notebook` e escolha o arquivo `ResiliaCorp.ipynb`.
+4. Execute as células de código clicando na seta ou pressionando `Ctrl + Enter` no teclado.
+
+
